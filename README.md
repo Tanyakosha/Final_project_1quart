@@ -20,4 +20,4 @@
 ## *Также представлена блок-схема алгоритма:* 
 *****
 
-![Блок cхема](/images\bs_finally_1quart.jpg)
+![Блок cхема](/images/bs_finally_1quart.jpg)
