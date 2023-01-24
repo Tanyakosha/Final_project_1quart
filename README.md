@@ -22,4 +22,4 @@
 
 ![Блок cхема](/images/bs_finally_1quart.jpg)
 
-[Ссылка на изображение блок-схемы](https://i.postimg.cc/Dw7Cjyd4/bs-finally-1quart.jpg)
+![Ссылка на изображение блок-схемы](https://i.postimg.cc/Dw7Cjyd4/bs-finally-1quart.jpg)
