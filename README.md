@@ -21,4 +21,4 @@
 *****
 
 
-![Ссылка на изображение блок-схемы](Final_project_1quart\images\bs_finally_1quart.jpg)
+![Ссылка на изображение блок-схемы](https://github.com/RumyancevaOlga/Final_project_1quart/blob/main/images/bs_finally_1quart.jpg)
